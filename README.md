@@ -1,5 +1,5 @@
 # AI-Training
-Foundations of Artificial Intelligence  Principles, Architecture, Applications &amp; the Future
+Foundations of Artificial Intelligence  Principles, Architecture, Applications &amp; the Future.
 The Youth Empowerment and Economic Acceleration Program (YEEAP) is a transformative initiative 
 designed to bridge the gap between potential and opportunity for millions of young people across Ethiopia 
 and Africa. Across the continent, youth are bright, capable, and ambitious — ready to contribute, 
